@@ -1,10 +1,10 @@
-export const process = {
-  dev: true,
-};
+// export const process = {
+//   dev: true,
+// };
 
-export const site = {
-  home: process.dev ? "http://localhost:8080/" : "https:/kitobz.com",
-}
+// export const site = {
+//   home: process.dev ? "http://localhost:8080/" : "https:/kitobz.com",
+// }
 
 export const app = {
   title: "Template test",
